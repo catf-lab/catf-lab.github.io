@@ -7,14 +7,11 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 
-        Cryptanalysis Taskforce
+      title: Cryptanalysis Taskforce
       image:
         filename: group_image.jpg
+        position: center
       text: 
-        
-        Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the Division of Mathematical Sciences of the School of
-
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
       announcement:
         text: 🧱🧱🧱Still in built🧱🧱🧱

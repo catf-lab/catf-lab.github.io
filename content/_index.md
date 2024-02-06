@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-02-06
 type: landing
 
 sections:
@@ -12,7 +12,6 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
         
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the Division of Mathematical Sciences of the School of
 

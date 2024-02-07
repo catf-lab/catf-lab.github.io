@@ -9,6 +9,7 @@ sections:
     content:
       title: 
       text: |
+      
         <span style="display: block; text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
         <p></p><p></p>
 
@@ -24,6 +25,24 @@ sections:
 
         We are grateful to our funders and sponsors:
 
+        <div style="text-align: center;">
+          <a href="https://www.ntu.edu.sg/">
+            <img src="/sponsors_img/NTU_ssr.jpg" style="width: 80px;"/>
+          </a>
+          <a href="https://www.dso.org.sg/">
+            <img src="/sponsors_img/DSO_ssr.jpg" style="width: 80px;"/>
+          </a>
+          <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
+            <img src="/sponsors_img/MINDEF_ssr.jpg" style="width: 80px;"/>
+          </a>
+          <a href="https://www.moe.gov.sg/">
+            <img src="/sponsors_img/MOE_ssr.jpg" style="width: 80px;"/>
+          </a>
+          <a href="https://www.nrf.gov.sg/">
+            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 80px;"/>
+          </a>
+        </div>
+
 
         
 # <a href="https://www.google.com">
@@ -36,7 +55,6 @@ sections:
       title: 
       text: |
         
-
         <span style="font-size: 40px; color: orange;">News</span>
 
         2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
@@ -83,19 +101,17 @@ sections:
         
         2016-04-25: We solved the 3-round preimage challenge of Keccak[r=1440, c=160, nr=3] and Keccak[r=640, c=160, nr=3], refer to this announcement and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_april2016.html).
         
-
-        🧱🧱🧱Website Still in Built🧱🧱🧱
-  
   - block: markdown
     content:
       title: 
       text: |
         
-
         <span style="font-size: 40px; color: orange;">Open Positions</span>
 
         * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
         * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
+
+        🧱🧱🧱Website Still in Built🧱🧱🧱
 
   # - block: collection
   #   content:

@@ -25,7 +25,7 @@ sections:
 
         We are grateful to our funders and sponsors:
 
-        <p></p><p></p><p></p><p></p>
+        <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
 
         <div style="display: flex; justify-content: center;">
           <a href="https://www.ntu.edu.sg/">
@@ -157,7 +157,7 @@ sections:
     content:
       title: 
       text: |
-        <p></p><p></p><p></p><p></p>
+      
         <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱Website Still in Built🧱🧱🧱</span>
         
 

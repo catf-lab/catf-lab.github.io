@@ -7,9 +7,11 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Cryptanalysis Taskforce
+      title: 
       text: |
+        <p></p><p></p>
         <span style="display: block; text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
+        <p></p><p></p>
 
         ![group_image](/group_image.jpg)
 
@@ -23,7 +25,7 @@ sections:
 
         We are grateful to our funders and sponsors:
 
-        
+
         
 # <a href="https://www.google.com">
 #   <img src="/group_image.jpg" />

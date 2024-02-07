@@ -25,36 +25,40 @@ sections:
 
         We are grateful to our funders and sponsors:
 
+        <p></p><p></p>
+
         <div style="display: flex; justify-content: center;">
           <a href="https://www.ntu.edu.sg/">
-            <img src="/sponsors_img/NTU_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/NTU_ssr.png" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.dso.org.sg/">
-            <img src="/sponsors_img/DSO_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/DSO_ssr.png" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
-            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.moe.gov.sg/">
-            <img src="/sponsors_img/MOE_ssr.jpg" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/MOE_ssr.jpg" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.nrf.gov.sg/">
             <img src="/sponsors_img/NRF_ssr.jpg" style="width: 200px;"/>
           </a>
         </div>
 
+        <p></p><p></p>
+
         <div style="display: flex; justify-content: center;">
           <a href="https://www.huawei.com/sg/">
-            <img src="/sponsors_img/Huawei_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/Huawei_ssr.png" style="width: 150px; margin-right: 20px;"/>
           </a>
           <a href="https://www.nsfc.gov.cn/">
-            <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 300px; margin-right: 10px;"/>
+            <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 350px; margin-right: 20px;"/>
           </a>
           <a href="https://www.paypal.com/sg/home">
-            <img src="/sponsors_img/Paypal_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/Paypal_ssr.png" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://latticex.foundation/">
-            <img src="/sponsors_img/LatticeX_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/LatticeX_ssr.png" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.imda.gov.sg/">
             <img src="/sponsors_img/IMDA_ssr.png" style="width: 200px;"/>
@@ -128,7 +132,9 @@ sections:
         * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
         * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
 
-        🧱🧱🧱Website Still in Built🧱🧱🧱
+
+        <span style="display: block; text-align: center; font-size: 100px;">🧱🧱🧱Website Still in Built🧱🧱🧱</span>
+        
 
   # - block: collection
   #   content:

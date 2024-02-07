@@ -27,37 +27,37 @@ sections:
 
         <div style="display: flex; justify-content: center;">
           <a href="https://www.ntu.edu.sg/">
-            <img src="/sponsors_img/NTU_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+            <img src="/sponsors_img/NTU_ssr.png" style="width: 150px; margin-right: 10px;"/>
           </a>
           <a href="https://www.dso.org.sg/">
-            <img src="/sponsors_img/DSO_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+            <img src="/sponsors_img/DSO_ssr.png" style="width: 1500px; margin-right: 10px;"/>
           </a>
           <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
-            <img src="/sponsors_img/MINDEF_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 150px; margin-right: 10px;"/>
           </a>
           <a href="https://www.moe.gov.sg/">
-            <img src="/sponsors_img/MOE_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+            <img src="/sponsors_img/MOE_ssr.png" style="width: 150px; margin-right: 10px;"/>
           </a>
           <a href="https://www.nrf.gov.sg/">
-            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 100px;"/>
+            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 150px;"/>
           </a>
         </div>
 
         <div style="display: flex; justify-content: center;">
           <a href="https://www.huawei.com/sg/">
-            <img src="/sponsors_img/Huawei_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+            <img src="/sponsors_img/Huawei_ssr.png" style="width: 150px; margin-right: 10px;"/>
           </a>
           <a href="https://www.nsfc.gov.cn/">
-            <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+            <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 200px; margin-right: 10px;"/>
           </a>
-          <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
-            <img src="/sponsors_img/MINDEF_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+          <a href="https://www.paypal.com/sg/home">
+            <img src="/sponsors_img/Paypal_ssr.png" style="width: 150px; margin-right: 10px;"/>
           </a>
-          <a href="https://www.moe.gov.sg/">
-            <img src="/sponsors_img/MOE_ssr.jpg" style="width: 100px; margin-right: 10px;"/>
+          <a href="https://latticex.foundation/">
+            <img src="/sponsors_img/LatticeX_ssr.png" style="width: 150px; margin-right: 10px;"/>
           </a>
-          <a href="https://www.nrf.gov.sg/">
-            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 100px;"/>
+          <a href="https://www.imda.gov.sg/">
+            <img src="/sponsors_img/IMDA_ssr.png" style="width: 150px;"/>
           </a>
         </div>
 

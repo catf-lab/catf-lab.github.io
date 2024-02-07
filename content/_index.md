@@ -9,15 +9,15 @@ sections:
     content:
       title: Cryptanalysis Taskforce
       text: |
-        
-        ![group_image](/group_image.jpg)
+        <span style="text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
 
-        ![icon](/assets/media/icon.png)
+        # ![group_image](/group_image.jpg)
 
-        <a href="www.google.com">
+        <a href="https://www.google.com">
           <img src="/group_image.jpg" />
         </a>
 
+        <p></p><p></p>
         <span style="font-size: 40px; color: orange;">Introduction</span>
 
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
@@ -49,9 +49,12 @@ sections:
 
         2022/03: Jian Guo has been awarded the SPMS Young Researcher Award 2021. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/two-faculty-members-awarded-the-spms-young-researcher-award-2021).
 
-        2022/02: NTU/SPMS new release on the organization of Asiacrypt 2021, Facebook, LinkedIn.
-        2021/12: Jian Guo has been elected to the IACR Board of Directors, thanks to the strong endosement by the IACR membership, he will do his best to promote research, education, and collaborations in the crypto community, espeically within the Asia-Pacific region. References: the IACR 2021 Election and news release by NTU/SPMS website, LinkedIn, Facebook and Instagram.
-        2021/03: PHOTON-Bettle is selected among the 10 finalists of NIST lightweight cryptography competition.
+        2022/02: [NTU/SPMS new release on the organization of Asiacrypt 2021](https://www.ntu.edu.sg/spms/news-events/news/detail/asiacrypt-2021-conference-organized-by-ntu-professors), [Facebook](https://www.facebook.com/ntuspms/posts/4921753747884624), [LinkedIn](https://www.linkedin.com/posts/ntu-spms-330357200_ntuspms-ntusg-ntusg-activity-6899162223097323520-l0MF/).
+
+        2021/12: Jian Guo has been elected to the [IACR Board of Directors](https://www.iacr.org/bod.html), thanks to the strong endosement by the IACR membership, he will do his best to promote research, education, and collaborations in the crypto community, espeically within the Asia-Pacific region. References: the [IACR 2021 Election](https://vote.heliosvoting.org/helios/elections/e32be530-2dbf-11ec-af80-e2b5f37f7c96/view) and news release by [NTU/SPMS website](https://www.ntu.edu.sg/spms/news-events/news/detail/assistant-professor-guo-jian-elected-to-board-of-international-association-for-cryptologic-research), [LinkedIn](https://www.linkedin.com/posts/ntu-spms-330357200_ntuspms-ntusg-activity-6878741190183927808-lsoT/), [Facebook](https://www.facebook.com/ntuspms/posts/4716522438407757) and [Instagram](https://www.instagram.com/p/CXuLJsbvzjP/).
+
+        2021/03: [PHOTON-Bettle is selected among the 10 finalists of NIST lightweight cryptography competition](https://csrc.nist.gov/News/2021/lightweight-crypto-finalists-announced).
+
         2021/03: News release on the MITM Preimage Attack against 8-Round AES hashing, by NTU/CoS Website, twitter, Facebook.
         2019/12: Invited talk at ASK 2019 on "Generic Attacks on Hash Combiners" by Zhenzhen Bao.
         2019/03: Invited talk at FSE 2019 on "Security of SHA-3 and Related Constructions" by Jian Guo.

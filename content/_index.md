@@ -34,22 +34,23 @@ sections:
           <a href="https://www.dso.org.sg/">
             <img src="/sponsors_img/DSO_ssr.png" style="width: 200px; margin-right: 40px;"/>
           </a>
-          <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
-            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 200px; margin-right: 10px;"/>
-          </a>
+          
           <a href="https://www.moe.gov.sg/">
             <img src="/sponsors_img/MOE_ssr.jpg" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.nrf.gov.sg/">
-            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 200px;"/>
+            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 200px; margin-right: 20px;"/>
+          </a>
+          <a href="https://www.huawei.com/sg/">
+            <img src="/sponsors_img/Huawei_ssr.png" style="width: 120px;"/>
           </a>
         </div>
 
         <p></p><p></p>
 
         <div style="display: flex; justify-content: center;">
-          <a href="https://www.huawei.com/sg/">
-            <img src="/sponsors_img/Huawei_ssr.png" style="width: 100px; margin-right: 20px;"/>
+          <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
+            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 200px; margin-right: 10px;"/>
           </a>
           <a href="https://www.nsfc.gov.cn/">
             <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 320px; margin-right: 20px;"/>

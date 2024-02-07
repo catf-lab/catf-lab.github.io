@@ -29,19 +29,19 @@ sections:
 
         <div style="display: flex; justify-content: center;">
           <a href="https://www.ntu.edu.sg/">
-            <img src="/sponsors_img/NTU_ssr.png" style="width: 200px; margin-right: 20px;"/>
+            <img src="/sponsors_img/NTU_ssr.png" style="width: 200px; margin-right: 40px;"/>
           </a>
           <a href="https://www.dso.org.sg/">
-            <img src="/sponsors_img/DSO_ssr.png" style="width: 200px; margin-right: 40px;"/>
+            <img src="/sponsors_img/DSO_ssr.png" style="width: 200px; margin-right: 30px;"/>
           </a>
           <a href="https://www.moe.gov.sg/">
             <img src="/sponsors_img/MOE_ssr.jpg" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.nrf.gov.sg/">
-            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 200px; margin-right: 20px;"/>
+            <img src="/sponsors_img/NRF_ssr.jpg" style="width: 200px; margin-right: 40px;"/>
           </a>
           <a href="https://www.huawei.com/sg/">
-            <img src="/sponsors_img/Huawei_ssr.png" style="width: 120px;"/>
+            <img src="/sponsors_img/Huawei_ssr.png" style="width: 130px;"/>
           </a>
         </div>
 
@@ -49,10 +49,10 @@ sections:
 
         <div style="display: flex; justify-content: center;">
           <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
-            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 200px; margin-right: 10px;"/>
+            <img src="/sponsors_img/MINDEF_ssr.png" style="width: 200px; margin-right: 20px;"/>
           </a>
           <a href="https://www.nsfc.gov.cn/">
-            <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 320px; margin-right: 20px;"/>
+            <img src="/sponsors_img/NNSFC_ssr.jpg" style="width: 300px; margin-right: 20px;"/>
           </a>
           <a href="https://www.paypal.com/sg/home">
             <img src="/sponsors_img/Paypal_ssr.png" style="width: 200px; margin-right: 20px;"/>

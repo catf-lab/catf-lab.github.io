@@ -10,11 +10,13 @@ sections:
       title: Cryptanalysis Taskforce
       text: |
         
-        ![group_image](/static/group/group_image.jpg)
+        ![group_image](/assets/media/group_image.jpg)
 
-        <img src="/static/group/group_image.jpg">
+        ![icon](/assets/media/icon.png)
 
-        <span style="font-size: 20px; color: orange;">Introduction</span>
+        <img src="/assets/media/group_image.jpg">
+
+        <span style="font-size: 50px; color: orange;">Introduction</span>
 
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
 
@@ -26,16 +28,17 @@ sections:
 
   - block: markdown
     content:
-      title: Cryptanalysis Taskforce
+      title: 
       # image:
         # filename: group_image.jpg
         # position: center
       text: |
         
 
-        <span style="font-size: 20px; color: orange;">News</span>
+        <span style="font-size: 50px; color: orange;">News</span>
 
         2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
+        2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
         
 
         🧱🧱🧱Website Still in Built🧱🧱🧱

@@ -78,7 +78,7 @@ sections:
         
         <span style="font-size: 35px; color: orange;">News</span>
 
-        <p style="font-size: 16px; line-height: 1.1;">
+        <div style="font-size: 20px; line-height: 1.1;">
         2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
 
         2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
@@ -122,7 +122,7 @@ sections:
         2016-05-27: We solved the 5-round collision challenge of Keccak[r=1440,c=160, nr=5], refer to this announcement and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_may2016.html).
         
         2016-04-25: We solved the 3-round preimage challenge of Keccak[r=1440, c=160, nr=3] and Keccak[r=640, c=160, nr=3], refer to this announcement and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_april2016.html).
-        </p>
+        </div>
         
   - block: markdown
     content:

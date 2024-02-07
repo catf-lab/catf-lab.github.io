@@ -78,7 +78,8 @@ sections:
         
         <span style="font-size: 35px; color: orange;">News</span>
 
-        <div style="font-size: 18px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2;">
+
         * 2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
         
         * 2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
@@ -130,7 +131,7 @@ sections:
       text: |
         
         <span style="font-size: 35px; color: orange;">Open Positions</span>
-        <div style="font-size: 18px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2;">
 
         * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
 
@@ -143,7 +144,7 @@ sections:
       text: |
         
         <span style="font-size: 35px; color: orange;">Recent Services</span>
-        <div style="font-size: 18px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2;">
 
         * FSE 2023 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2023(PCC: Jian Guo); ASIACRYPT 2023(PC: Eik List, Guozhen Liu)
 

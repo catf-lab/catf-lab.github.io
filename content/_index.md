@@ -16,7 +16,7 @@ sections:
         ![group_image](/group_image.jpg)
 
         <p></p><p></p>
-        <span style="font-size: 40px; color: orange;">Introduction</span>
+        <span style="font-size: 35px; color: orange;">Introduction</span>
         <p></p>
 
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
@@ -34,7 +34,6 @@ sections:
           <a href="https://www.dso.org.sg/">
             <img src="/sponsors_img/DSO_ssr.png" style="width: 200px; margin-right: 40px;"/>
           </a>
-          
           <a href="https://www.moe.gov.sg/">
             <img src="/sponsors_img/MOE_ssr.jpg" style="width: 200px; margin-right: 20px;"/>
           </a>
@@ -77,7 +76,7 @@ sections:
       title: 
       text: |
         
-        <span style="font-size: 40px; color: orange;">News</span>
+        <span style="font-size: 35px; color: orange;">News</span>
 
         2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
 
@@ -128,12 +127,37 @@ sections:
       title: 
       text: |
         
-        <span style="font-size: 40px; color: orange;">Open Positions</span>
+        <span style="font-size: 35px; color: orange;">Open Positions</span>
 
         * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
         * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
 
+  - block: markdown
+    content:
+      title: 
+      text: |
+        
+        <span style="font-size: 35px; color: orange;">Recent Services</span>
 
+        * FSE 2023 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2023(PCC: Jian Guo); ASIACRYPT 2023(PC: Eik List, Guozhen Liu)
+
+        * FSE 2022 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2022(PC: Jian Guo); ACISP 2022 (PC: Zhenzhen Bao)
+
+        * FSE 2021 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2021 (GC: Jian Guo, PC: Zhenzhen Bao); Inscrypt (PC: Zhenzhen Bao, Jian Guo); CFail (PC: Zhenzhen Bao, Jian Guo)
+
+        * FSE 2020 (PC: Zhenzhen Bao, Ling Song); EUROCRYPT 2020 (PC: Jian Guo); ToSC Special Issue on Designs for the NIST Lightweight Standardisation Process (PC: Zhenzhen Bao); ACISP 2020 (PC: Zhenzhen Bao); ASIACRYPT 2020 (PC: Zhenzhen Bao, Jian Guo)
+
+        * FSE 2019 (PC: Jian Guo, Ling Song); ASIACRYPT 2019 (PC: Zhenzhen Bao, Jian Guo)
+
+        * FSE 2018 (PC: Jian Guo); EUROCRYPT 2018 (PC: Jian Guo); ASIACRYPT 2018 (PC: Ling Song)
+
+        * FSE 2017 (PC: Jian Guo); ASIACRYPT 2017 (PC: Jian Guo)
+  
+  - block: markdown
+    content:
+      title: 
+      text: |
+        <p></p><p></p><p></p><p></p>
         <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱Website Still in Built🧱🧱🧱</span>
         
 

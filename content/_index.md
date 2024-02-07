@@ -78,16 +78,12 @@ sections:
         
         <span style="font-size: 35px; color: orange;">News</span>
 
-        <div style="font-size: 20px; line-height: 1;">
+        <div style="font-size: 18px; line-height: 1.2;">
         2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
         <br>
-        
-        2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
-        <br>
-
+        2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".<br>
         2022/11: Joint with J. Guo, L. Song, and H. Wang, the paper entitled "Improved Related-Key Boomerang Attack against the Full AES-256" won the Best Paper Award of [ACISP 2022](https://uow-ic2.github.io/acisp2022/program.html). The paper improves the best related-key boomerang attack against the full AES-256 to lower time complexities at the cost of more data.
         <br>
-
         2022/07: Jian Guo is appointed as the Program Co-Chair of Asiacrypt 2023. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/asst-prof-guo-jian-appointed-as-programme-co-chair-of-iacr-asiacrypt-conference-2023).
         <br>
 
@@ -136,7 +132,7 @@ sections:
       text: |
         
         <span style="font-size: 35px; color: orange;">Open Positions</span>
-        <div style="font-size: 20px; line-height: 1.1;">
+        <div style="font-size: 18px; line-height: 1.2;">
 
         * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
 
@@ -149,7 +145,7 @@ sections:
       text: |
         
         <span style="font-size: 35px; color: orange;">Recent Services</span>
-        <div style="font-size: 20px; line-height: 1.1;">
+        <div style="font-size: 18px; line-height: 1.2;">
 
         * FSE 2023 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2023(PCC: Jian Guo); ASIACRYPT 2023(PC: Eik List, Guozhen Liu)
 

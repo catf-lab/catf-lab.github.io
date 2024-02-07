@@ -9,7 +9,6 @@ sections:
     content:
       title: 
       text: |
-        <p></p><p></p>
         <span style="display: block; text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
         <p></p><p></p>
 
@@ -35,9 +34,6 @@ sections:
   - block: markdown
     content:
       title: 
-      # image:
-        # filename: group_image.jpg
-        # position: center
       text: |
         
 
@@ -90,6 +86,17 @@ sections:
 
         🧱🧱🧱Website Still in Built🧱🧱🧱
   
+  - block: markdown
+    content:
+      title: 
+      text: |
+        
+
+        <span style="font-size: 40px; color: orange;">Open Positions</span>
+
+        * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
+        * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
+
   # - block: collection
   #   content:
   #     title: Latest News

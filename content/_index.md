@@ -9,23 +9,25 @@ sections:
     content:
       title: Cryptanalysis Taskforce
       text: |
-        <span style="text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
+        <span style="display: block; text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
 
-        # ![group_image](/group_image.jpg)
-
-        <a href="https://www.google.com">
-          <img src="/group_image.jpg" />
-        </a>
+        ![group_image](/group_image.jpg)
 
         <p></p><p></p>
         <span style="font-size: 40px; color: orange;">Introduction</span>
+        <p></p>
 
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
 
         We are **constantly** looking for [PhD candidates](https://guo.crypto.sg/students) and Post-Doctoral Research Fellows, and maintain a regular visitor/exchange program, if you are interested in any of them, please contact [Jian Guo](https://guo.crypto.sg/).
 
         We are grateful to our funders and sponsors:
+
         
+        
+# <a href="https://www.google.com">
+#   <img src="/group_image.jpg" />
+# </a>
 
 
   - block: markdown
@@ -55,20 +57,33 @@ sections:
 
         2021/03: [PHOTON-Bettle is selected among the 10 finalists of NIST lightweight cryptography competition](https://csrc.nist.gov/News/2021/lightweight-crypto-finalists-announced).
 
-        2021/03: News release on the MITM Preimage Attack against 8-Round AES hashing, by NTU/CoS Website, twitter, Facebook.
-        2019/12: Invited talk at ASK 2019 on "Generic Attacks on Hash Combiners" by Zhenzhen Bao.
-        2019/03: Invited talk at FSE 2019 on "Security of SHA-3 and Related Constructions" by Jian Guo.
-        2018-03-05: Joint with L. Song, J. Guo, and D. Shi, the paper entitled "New MILP Modeling: Improved Conditional Cube Attacks to Keccak-based Constructions" won the Kejte cryptanalysis prize.
+        2021/03: News release on the MITM Preimage Attack against 8-Round AES hashing, by [NTU/CoS Website](https://blogs.ntu.edu.sg/science/2021/03/03/finding-keys-to-the-most-secured-encryption-algorithm/), [twitter](https://twitter.com/ScienceNTU/status/1367037027925991425), [Facebook](https://www.facebook.com/ScienceNTU/photos/a.476425836226287/988943438307855/).
+
+        2019/12: Invited talk at [ASK 2019](https://askworkshop.github.io/ask2019/) on "Generic Attacks on Hash Combiners" by Zhenzhen Bao.
+
+        2019/03: Invited talk at [FSE 2019](https://fse.iacr.org/2019/program.html) on "Security of SHA-3 and Related Constructions" by Jian Guo.
+
+        2018-03-05: Joint with L. Song, J. Guo, and D. Shi, the paper entitled "New MILP Modeling: Improved Conditional Cube Attacks to Keccak-based Constructions" won [the Kejte cryptanalysis prize](https://keccak.team/2018/ketje_cryptanalysis_results.html).
+        
         2018-02-08: Joint with C. Chaigneau, T. Fuhr, H. Gilbert, J. Guo, J. Jean, J. R. Reinhard, L. Song, the paper entitled "Key-Recovery Attacks on Full Kravatte" won the Best Paper Award of FSE 2018. The paper broke the full Kravatte (a PRF design based on the SHA-3 round function), and several subsequent patched versions.
-        2017-10-29: New results on key recoveries on keyed constructions based on Keccak permutations and participation in the Ketje cryptanalysis competition.
-        2017-03-29: We received all 2 prizes of the SKINNY Cryptanalysis Competition 2016-2017, by the papers Related-Key Impossible-Differential Attack on Reduced-Round SKINNY and Security Analysis of SKINNY under Related-Tweakey Settings, refer to this announcement by the SKINNY team.
-        2017-02-26: We solved the 6-round collision challenge of Keccak[r=1440,c=160,nr=6], refer to this announcement and acknowledgement by the Keccak Team.
-        2016-12-12: Meicheng solved the 4-round preimage challenge of Keccak[r=1440, c=160, nr=4], refer to this announcement and acknowledgement by the Keccak Team.
-        2016-08-15: CLOC+SILC is selected into the 3rd round of CAESAR competition.
-        2016-08-01: PHOTON is now part of ISO lightweight hash function standards ISO/IEC 29192-5:2016.
-        2016-07-11: We solved the 5-round collision challenge of Keccak[r=640,c=160, nr=5], refer to this announcement and acknowledgement by the Keccak Team.
-        2016-05-27: We solved the 5-round collision challenge of Keccak[r=1440,c=160, nr=5], refer to this announcement and acknowledgement by the Keccak Team.
-        2016-04-25: We solved the 3-round preimage challenge of Keccak[r=1440, c=160, nr=3] and Keccak[r=640, c=160, nr=3], refer to this announcement and acknowledgement by the Keccak Team.
+
+        2017-10-29: [New results on key recoveries on keyed constructions based on Keccak permutations](https://eprint.iacr.org/2017/1030) and [participation in the Ketje cryptanalysis competition](https://groups.google.com/g/crypto-competitions/c/1Mvvio8OR6k).
+
+        2017-03-29: We received all 2 prizes of [the SKINNY Cryptanalysis Competition 2016-2017](http://sites.google.com/site/skinnycipher/cryptanalysis-competition/2016-2017-competition), by the papers [Related-Key Impossible-Differential Attack on Reduced-Round SKINNY](https://eprint.iacr.org/2016/1127) and [Security Analysis of SKINNY under Related-Tweakey Settings](https://eprint.iacr.org/2016/1108), refer to [this announcement](https://groups.google.com/forum/#!topic/crypto-competitions/lQZIbtAmYM8) by the SKINNY team.
+
+        2017-02-26: We solved the 6-round collision challenge of Keccak[r=1440,c=160,nr=6], refer to [this announcement](https://groups.google.com/forum/#!topic/crypto-competitions/6CO-NGyotfo) and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_march2017.html).
+        
+        2016-12-12: Meicheng solved the 4-round preimage challenge of Keccak[r=1440, c=160, nr=4], refer to [this announcement](https://groups.google.com/forum/#!topic/crypto-competitions/7nnvKGXDhBM) and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_december2016.html).
+
+        2016-08-15: [CLOC+SILC](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/AE/) is selected into the 3rd round of [CAESAR competition](https://competitions.cr.yp.to/caesar-submissions.html).
+
+        2016-08-01: [PHOTON](http://photon.crypto.sg/) is now part of ISO lightweight hash function standards [ISO/IEC 29192-5:2016](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=67173).
+
+        2016-07-11: We solved the 5-round collision challenge of Keccak[r=640,c=160, nr=5], refer to this announcement and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_july2016.html).
+        
+        2016-05-27: We solved the 5-round collision challenge of Keccak[r=1440,c=160, nr=5], refer to this announcement and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_may2016.html).
+        
+        2016-04-25: We solved the 3-round preimage challenge of Keccak[r=1440, c=160, nr=3] and Keccak[r=640, c=160, nr=3], refer to this announcement and [acknowledgement by the Keccak Team](http://keccak.noekeon.org/crunchy_april2016.html).
         
 
         🧱🧱🧱Website Still in Built🧱🧱🧱

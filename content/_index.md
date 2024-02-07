@@ -12,18 +12,20 @@ sections:
         # filename: group_image.jpg
         # position: center
       text: |
-        ![group_image](/assets/media/group_image.jpg)
+        
+        ![group_image](assets/media/group_image.jpg)
 
-        <img src="/assets/media/group_image.jpg">
+        <img src="assets/media/group_image.jpg">
 
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
 
-        We are constantly looking for PhD candidates and Post-Doctoral Research Fellows, and maintain a regular visitor/exchange program, if you are interested in any of them, please contact Jian Guo.
+        We are **constantly** looking for [PhD candidates](https://guo.crypto.sg/students) and Post-Doctoral Research Fellows, and maintain a regular visitor/exchange program, if you are interested in any of them, please contact [Jian Guo](https://guo.crypto.sg/).
 
         We are grateful to our funders and sponsors:
         
 
         🧱🧱🧱Website Still in Built🧱🧱🧱
+
   
   - block: collection
     content:

@@ -10,13 +10,15 @@ sections:
       title: Cryptanalysis Taskforce
       text: |
         
-        ![group_image](/assets/media/group_image.jpg)
+        ![group_image](/group_image.jpg)
 
         ![icon](/assets/media/icon.png)
 
-        <img src="/assets/media/group_image.jpg">
+        <a href="www.google.com">
+          <img src="/group_image.jpg" />
+        </a>
 
-        <span style="font-size: 50px; color: orange;">Introduction</span>
+        <span style="font-size: 40px; color: orange;">Introduction</span>
 
         Established in 2014, we are a group of cryptography researchers from Nanyang Technological University in Singapore. Our research focuses are symmetric-key cryptology and privacy-preserving technologies. We are physically hosted by the [Division of Mathematical Sciences](https://www.ntu.edu.sg/spms/about-us/mathematics) of the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), have been part of [Temasek Laboratories @ NTU](https://www.ntu.edu.sg/temasek-labs) and [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/), and in collaboration with [Shanghai Jiao Tong University, China](https://www.sjtu.edu.cn/). 
 
@@ -35,10 +37,35 @@ sections:
       text: |
         
 
-        <span style="font-size: 50px; color: orange;">News</span>
+        <span style="font-size: 40px; color: orange;">News</span>
 
         2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
+
         2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
+
+        2022/11: Joint with J. Guo, L. Song, and H. Wang, the paper entitled "Improved Related-Key Boomerang Attack against the Full AES-256" won the Best Paper Award of [ACISP 2022](https://uow-ic2.github.io/acisp2022/program.html). The paper improves the best related-key boomerang attack against the full AES-256 to lower time complexities at the cost of more data.
+
+        2022/07: Jian Guo is appointed as the Program Co-Chair of Asiacrypt 2023. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/asst-prof-guo-jian-appointed-as-programme-co-chair-of-iacr-asiacrypt-conference-2023).
+
+        2022/03: Jian Guo has been awarded the SPMS Young Researcher Award 2021. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/two-faculty-members-awarded-the-spms-young-researcher-award-2021).
+
+        2022/02: NTU/SPMS new release on the organization of Asiacrypt 2021, Facebook, LinkedIn.
+        2021/12: Jian Guo has been elected to the IACR Board of Directors, thanks to the strong endosement by the IACR membership, he will do his best to promote research, education, and collaborations in the crypto community, espeically within the Asia-Pacific region. References: the IACR 2021 Election and news release by NTU/SPMS website, LinkedIn, Facebook and Instagram.
+        2021/03: PHOTON-Bettle is selected among the 10 finalists of NIST lightweight cryptography competition.
+        2021/03: News release on the MITM Preimage Attack against 8-Round AES hashing, by NTU/CoS Website, twitter, Facebook.
+        2019/12: Invited talk at ASK 2019 on "Generic Attacks on Hash Combiners" by Zhenzhen Bao.
+        2019/03: Invited talk at FSE 2019 on "Security of SHA-3 and Related Constructions" by Jian Guo.
+        2018-03-05: Joint with L. Song, J. Guo, and D. Shi, the paper entitled "New MILP Modeling: Improved Conditional Cube Attacks to Keccak-based Constructions" won the Kejte cryptanalysis prize.
+        2018-02-08: Joint with C. Chaigneau, T. Fuhr, H. Gilbert, J. Guo, J. Jean, J. R. Reinhard, L. Song, the paper entitled "Key-Recovery Attacks on Full Kravatte" won the Best Paper Award of FSE 2018. The paper broke the full Kravatte (a PRF design based on the SHA-3 round function), and several subsequent patched versions.
+        2017-10-29: New results on key recoveries on keyed constructions based on Keccak permutations and participation in the Ketje cryptanalysis competition.
+        2017-03-29: We received all 2 prizes of the SKINNY Cryptanalysis Competition 2016-2017, by the papers Related-Key Impossible-Differential Attack on Reduced-Round SKINNY and Security Analysis of SKINNY under Related-Tweakey Settings, refer to this announcement by the SKINNY team.
+        2017-02-26: We solved the 6-round collision challenge of Keccak[r=1440,c=160,nr=6], refer to this announcement and acknowledgement by the Keccak Team.
+        2016-12-12: Meicheng solved the 4-round preimage challenge of Keccak[r=1440, c=160, nr=4], refer to this announcement and acknowledgement by the Keccak Team.
+        2016-08-15: CLOC+SILC is selected into the 3rd round of CAESAR competition.
+        2016-08-01: PHOTON is now part of ISO lightweight hash function standards ISO/IEC 29192-5:2016.
+        2016-07-11: We solved the 5-round collision challenge of Keccak[r=640,c=160, nr=5], refer to this announcement and acknowledgement by the Keccak Team.
+        2016-05-27: We solved the 5-round collision challenge of Keccak[r=1440,c=160, nr=5], refer to this announcement and acknowledgement by the Keccak Team.
+        2016-04-25: We solved the 3-round preimage challenge of Keccak[r=1440, c=160, nr=3] and Keccak[r=640, c=160, nr=3], refer to this announcement and acknowledgement by the Keccak Team.
         
 
         🧱🧱🧱Website Still in Built🧱🧱🧱

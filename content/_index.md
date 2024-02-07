@@ -79,15 +79,15 @@ sections:
         <span style="font-size: 35px; color: orange;">News</span>
 
         <div style="font-size: 20px; line-height: 1;">
-        2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
+        <p>2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.</p>
 
-        2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
+        <p>2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".</p>
 
-        2022/11: Joint with J. Guo, L. Song, and H. Wang, the paper entitled "Improved Related-Key Boomerang Attack against the Full AES-256" won the Best Paper Award of [ACISP 2022](https://uow-ic2.github.io/acisp2022/program.html). The paper improves the best related-key boomerang attack against the full AES-256 to lower time complexities at the cost of more data.
+        <p>2022/11: Joint with J. Guo, L. Song, and H. Wang, the paper entitled "Improved Related-Key Boomerang Attack against the Full AES-256" won the Best Paper Award of [ACISP 2022](https://uow-ic2.github.io/acisp2022/program.html). The paper improves the best related-key boomerang attack against the full AES-256 to lower time complexities at the cost of more data.</p>
 
-        2022/07: Jian Guo is appointed as the Program Co-Chair of Asiacrypt 2023. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/asst-prof-guo-jian-appointed-as-programme-co-chair-of-iacr-asiacrypt-conference-2023).
+        <p>2022/07: Jian Guo is appointed as the Program Co-Chair of Asiacrypt 2023. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/asst-prof-guo-jian-appointed-as-programme-co-chair-of-iacr-asiacrypt-conference-2023).</p>
 
-        2022/03: Jian Guo has been awarded the SPMS Young Researcher Award 2021. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/two-faculty-members-awarded-the-spms-young-researcher-award-2021).
+        <p>2022/03: Jian Guo has been awarded the SPMS Young Researcher Award 2021. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/two-faculty-members-awarded-the-spms-young-researcher-award-2021).</p>
 
         2022/02: [NTU/SPMS new release on the organization of Asiacrypt 2021](https://www.ntu.edu.sg/spms/news-events/news/detail/asiacrypt-2021-conference-organized-by-ntu-professors), [Facebook](https://www.facebook.com/ntuspms/posts/4921753747884624), [LinkedIn](https://www.linkedin.com/posts/ntu-spms-330357200_ntuspms-ntusg-ntusg-activity-6899162223097323520-l0MF/).
 
@@ -131,7 +131,9 @@ sections:
         
         <span style="font-size: 35px; color: orange;">Open Positions</span>
         <div style="font-size: 20px; line-height: 1.1;">
+
         * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
+
         * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
         </div>
 
@@ -142,6 +144,7 @@ sections:
         
         <span style="font-size: 35px; color: orange;">Recent Services</span>
         <div style="font-size: 20px; line-height: 1.1;">
+
         * FSE 2023 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2023(PCC: Jian Guo); ASIACRYPT 2023(PC: Eik List, Guozhen Liu)
 
         * FSE 2022 (PC: Zhenzhen Bao, Jian Guo); ASIACRYPT 2022(PC: Jian Guo); ACISP 2022 (PC: Zhenzhen Bao)
@@ -155,6 +158,7 @@ sections:
         * FSE 2018 (PC: Jian Guo); EUROCRYPT 2018 (PC: Jian Guo); ASIACRYPT 2018 (PC: Ling Song)
 
         * FSE 2017 (PC: Jian Guo); ASIACRYPT 2017 (PC: Jian Guo)
+
         </div>
   
   - block: markdown

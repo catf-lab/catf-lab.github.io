@@ -26,19 +26,19 @@ sections:
         We are grateful to our funders and sponsors:
 
         <div style="text-align: center;">
-          <a href="https://www.ntu.edu.sg/">
+          <a href="https://www.ntu.edu.sg/" style="display: inline-block;">
             <img src="/sponsors_img/NTU_ssr.jpg" style="width: 80px;"/>
           </a>
-          <a href="https://www.dso.org.sg/">
+          <a href="https://www.dso.org.sg/" style="display: inline-block;">
             <img src="/sponsors_img/DSO_ssr.jpg" style="width: 80px;"/>
           </a>
-          <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
+          <a href="https://www.mindef.gov.sg/web/portal/mindef/home" style="display: inline-block;">
             <img src="/sponsors_img/MINDEF_ssr.jpg" style="width: 80px;"/>
           </a>
-          <a href="https://www.moe.gov.sg/">
+          <a href="https://www.moe.gov.sg/" style="display: inline-block;">
             <img src="/sponsors_img/MOE_ssr.jpg" style="width: 80px;"/>
           </a>
-          <a href="https://www.nrf.gov.sg/">
+          <a href="https://www.nrf.gov.sg/" style="display: inline-block;">
             <img src="/sponsors_img/NRF_ssr.jpg" style="width: 80px;"/>
           </a>
         </div>

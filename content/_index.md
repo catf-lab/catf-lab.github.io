@@ -158,7 +158,7 @@ sections:
       title: 
       text: |
       
-        <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱Website Still in Built🧱🧱🧱</span>
+        <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱 Website Still in Built 🧱🧱🧱</span>
         
 
   # - block: collection

@@ -79,17 +79,23 @@ sections:
         <span style="font-size: 35px; color: orange;">News</span>
 
         <div style="font-size: 20px; line-height: 1;">
-        <p>2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.</p>
+        2022/12: Together with Assoc Prof Pinaki Sengupta, our research proposal on "Complexity Analysis For Designing Efficient Quantum Algorithms" won the SPMS Collaborative Research Award 2022.
+        <br>
+        
+        2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".
+        <br>
 
-        <p>2022/12: Jian Guo was invited to talk at [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/) on "Evolution of Cryptanalysis: Security Status of SHA-3 and AES Hashing".</p>
+        2022/11: Joint with J. Guo, L. Song, and H. Wang, the paper entitled "Improved Related-Key Boomerang Attack against the Full AES-256" won the Best Paper Award of [ACISP 2022](https://uow-ic2.github.io/acisp2022/program.html). The paper improves the best related-key boomerang attack against the full AES-256 to lower time complexities at the cost of more data.
+        <br>
 
-        <p>2022/11: Joint with J. Guo, L. Song, and H. Wang, the paper entitled "Improved Related-Key Boomerang Attack against the Full AES-256" won the Best Paper Award of [ACISP 2022](https://uow-ic2.github.io/acisp2022/program.html). The paper improves the best related-key boomerang attack against the full AES-256 to lower time complexities at the cost of more data.</p>
+        2022/07: Jian Guo is appointed as the Program Co-Chair of Asiacrypt 2023. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/asst-prof-guo-jian-appointed-as-programme-co-chair-of-iacr-asiacrypt-conference-2023).
+        <br>
 
-        <p>2022/07: Jian Guo is appointed as the Program Co-Chair of Asiacrypt 2023. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/asst-prof-guo-jian-appointed-as-programme-co-chair-of-iacr-asiacrypt-conference-2023).</p>
-
-        <p>2022/03: Jian Guo has been awarded the SPMS Young Researcher Award 2021. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/two-faculty-members-awarded-the-spms-young-researcher-award-2021).</p>
+        2022/03: Jian Guo has been awarded the SPMS Young Researcher Award 2021. References: [news release by NTU/SPMS](https://www.ntu.edu.sg/spms/news-events/news/detail/two-faculty-members-awarded-the-spms-young-researcher-award-2021).
+        <br>
 
         2022/02: [NTU/SPMS new release on the organization of Asiacrypt 2021](https://www.ntu.edu.sg/spms/news-events/news/detail/asiacrypt-2021-conference-organized-by-ntu-professors), [Facebook](https://www.facebook.com/ntuspms/posts/4921753747884624), [LinkedIn](https://www.linkedin.com/posts/ntu-spms-330357200_ntuspms-ntusg-ntusg-activity-6899162223097323520-l0MF/).
+        <br>
 
         2021/12: Jian Guo has been elected to the [IACR Board of Directors](https://www.iacr.org/bod.html), thanks to the strong endosement by the IACR membership, he will do his best to promote research, education, and collaborations in the crypto community, espeically within the Asia-Pacific region. References: the [IACR 2021 Election](https://vote.heliosvoting.org/helios/elections/e32be530-2dbf-11ec-af80-e2b5f37f7c96/view) and news release by [NTU/SPMS website](https://www.ntu.edu.sg/spms/news-events/news/detail/assistant-professor-guo-jian-elected-to-board-of-international-association-for-cryptologic-research), [LinkedIn](https://www.linkedin.com/posts/ntu-spms-330357200_ntuspms-ntusg-activity-6878741190183927808-lsoT/), [Facebook](https://www.facebook.com/ntuspms/posts/4716522438407757) and [Instagram](https://www.instagram.com/p/CXuLJsbvzjP/).
 

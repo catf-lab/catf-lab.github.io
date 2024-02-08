@@ -4,6 +4,8 @@ date: 2024-02-08
 
 type: landing
 
+<link rel="stylesheet" href="/css/styles.css">
+
 sections:
   - block: markdown
     content:

@@ -1,3 +1,7 @@
+body {
+    margin-left: 20px; /* Add indentation to the left side of the page */
+}
+
 .member-info {
     font-size: 16px;
     line-height: 1.2;

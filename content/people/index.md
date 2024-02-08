@@ -1,4 +1,14 @@
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>People</title>
+    <link rel="stylesheet" href="/css/styles.css"> <!-- Reference to your CSS file -->
+</head>
+<body>
+
 title: People
 date: 2024-02-08
 
@@ -15,6 +25,7 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Team Lead:</span><br>
 
+        <p></p>
         <a href="https://guo.crypto.sg/">
           <span style="color: blue;">Jian Guo</span>
         </a>
@@ -27,11 +38,12 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Associates:</span><br>
 
+        <p></p>
         <a href="https://freedisciplina.github.io/">
           <span style="color: blue;">Zhenzhen Bao</span>
         </a>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div class="member-info">
           Affiliation: Assistant Professor, Tsinghua University, China<br>
           Email: zzbao@tsinghua.edu.cn<br>
           Interests: Symmetric-Key Cryptography<br>
@@ -40,6 +52,7 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Post-Doctoral Research Fellows:</span><br>
         
+        <p></p>
         <span style="color: blue;">Shiyao Chen</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -80,16 +93,18 @@ sections:
         </div>
 
         <p></p>
-        <span style="font-size: 28px;">Team Lead:</span><br>
+        <span style="font-size: 28px;">PhD Students:</span><br>
 
+        <p></p>
         <span style="color: blue;">Phuong Pham</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2019 - <br>
           Topic: Quantum Cryptanalysis<br>
-          Email: pham0079@e.ntu.edu.sg
+          Email: pham0079@e.ntu.edu.sg<br>
         </div>
 
+        <p></p>
         <span style="color: blue;">Xingran Li</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -98,6 +113,7 @@ sections:
           Email: xingran001@e.ntu.edu.sg
         </div>
 
+        <p></p>
         <span style="color: blue;">Yiran Yao</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -106,6 +122,7 @@ sections:
           Email: yiran005@e.ntu.edu.sg
         </div>
 
+        <p></p>
         <span style="color: blue;">Wenjie Nan</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -114,6 +131,7 @@ sections:
           Email: wenjie006@e.ntu.edu.sg
         </div>
 
+        <p></p>
         <span style="color: blue;">Tianyu Zhang</span>
 
         <div style="font-size: 16px; line-height: 1.2;">

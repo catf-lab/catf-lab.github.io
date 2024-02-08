@@ -33,7 +33,7 @@ sections:
           <span style="color: blue;">Zhenzhen Bao</span>
         </a>
 
-        <div class="member-info">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Affiliation: Assistant Professor, Tsinghua University, China<br>
           Email: zzbao@tsinghua.edu.cn<br>
           Interests: Symmetric-Key Cryptography<br>
@@ -53,7 +53,7 @@ sections:
         <p></p>
         <span style="color: blue;">Le He</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Email: le.he@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography
         </div>
@@ -61,7 +61,7 @@ sections:
         <p></p>
         <span style="color: blue;">Shun Li</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Email: shun.li@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies, Quantum Cryptanalysis
         </div>
@@ -69,7 +69,7 @@ sections:
         <p></p>
         <span style="color: blue;">Eik List</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Email: eik.list@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Provable Security
         </div>
@@ -77,7 +77,7 @@ sections:
         <p></p>
         <span style="color: blue;">Guozhen Liu</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Email: guozhen.liu@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography
         </div>
@@ -88,7 +88,7 @@ sections:
         <p></p>
         <span style="color: blue;">Phuong Pham</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2019 - <br>
           Topic: Quantum Cryptanalysis<br>
           Email: pham0079@e.ntu.edu.sg<br>
@@ -97,7 +97,7 @@ sections:
         <p></p>
         <span style="color: blue;">Xingran Li</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Affiliation: Interdisciplinary Graduate Programme, Nanyang Technological University, Singapore. 01/2022 - <br>
           Topic: Privacy-Preserving Technologies<br>
           Email: xingran001@e.ntu.edu.sg
@@ -106,7 +106,7 @@ sections:
         <p></p>
         <span style="color: blue;">Yiran Yao</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2022 - <br>
           Topic: Cryptanalysis and Machine Learning <br>
           Email: yiran005@e.ntu.edu.sg
@@ -115,16 +115,16 @@ sections:
         <p></p>
         <span style="color: blue;">Wenjie Nan</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 01/2023 - <br>
           Topic: Cryptography for Privacy-Preserving Technologies <br>
           Email: wenjie006@e.ntu.edu.sg
         </div>
 
         <p></p>
-        <span style="font-size: 1600px; color: pink;">Tianyu Zhang</span>
+        <span style="font-size: 50px; color: pink;">Tianyu Zhang</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
           Topic: Quantum Cryptanalysis <br>
           Email: tianyu005@e.ntu.edu.sg
@@ -142,7 +142,7 @@ sections:
 
 
 
-# <div style="font-size: 16px; line-height: 1.2;">
+# <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
 
 # * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
 

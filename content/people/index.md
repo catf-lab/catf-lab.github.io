@@ -28,6 +28,15 @@ sections:
         </div>
 
         <p></p>
+        <span color: pink;">Tianyu Zhang</span>
+
+        <div class="member-info">
+          Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
+          Topic: Quantum Cryptanalysis <br>
+          Email: tianyu005@e.ntu.edu.sg
+        </div>
+
+        <p></p>
         <span style="font-size: 28px;">Associates:</span><br>
 
         <p></p>
@@ -35,7 +44,7 @@ sections:
           <span style="color: blue;">Zhenzhen Bao</span>
         </a>
 
-        <div class>
+        <div class="member-info">
           Affiliation: Assistant Professor, Tsinghua University, China<br>
           Email: zzbao@tsinghua.edu.cn<br>
           Interests: Symmetric-Key Cryptography<br>
@@ -124,7 +133,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="font-size: 50px; color: pink;">Tianyu Zhang</span>
+        <span color: pink;">Tianyu Zhang</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
@@ -132,6 +141,13 @@ sections:
           Email: tianyu005@e.ntu.edu.sg
         </div>
         
+        <p></p>
+        <span style="font-size: 28px;">Undergraduate Students:</span><br>
+
+        <p></p>
+        <span style="font-size: 28px;">Exchange/Visitors:</span><br>
+
+
 
 
   

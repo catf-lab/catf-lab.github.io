@@ -13,42 +13,54 @@ sections:
         <span style="font-size: 35px; color: orange;">Current Members</span>
 
         <p></p>
-        <span style="font-size: 28px;">Team Lead:</span>
+        <span style="font-size: 28px;">Team Lead:</span><br>
 
         <a href="https://guo.crypto.sg/">
           <span style="color: blue;">Jian Guo</span>
         </a>
 
-        Email: guojian@ntu.edu.sg
+        <div style="font-size: 16px; line-height: 1.2;">
+          Email: guojian@ntu.edu.sg
 
-        Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies
+          Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies
+        </div>
 
         <p></p>
-        <span style="font-size: 28px;">Associates:</span>
+        <span style="font-size: 28px;">Associates:</span><br>
 
         <a href="https://freedisciplina.github.io/">
           <span style="color: blue;">Zhenzhen Bao</span>
         </a>
 
-        Affiliation: Assistant Professor, Tsinghua University, China
+        <div style="font-size: 16px; line-height: 1.2;">
+          Affiliation: Assistant Professor, Tsinghua University, China
         
-        Email: zzbao@tsinghua.edu.cn
+          Email: zzbao@tsinghua.edu.cn
         
-        Interests: Symmetric-Key Cryptography
+          Interests: Symmetric-Key Cryptography
+        </div>
 
         <p></p>
-        <span style="font-size: 28px;">Post-Doctoral Research Fellows:</span>
+        <span style="font-size: 28px;">Post-Doctoral Research Fellows:</span><br>
         
         <span style="color: blue;">Shiyao Chen</span>
 
-
         <div style="font-size: 16px; line-height: 1.2;">
+          Email: shiyao.chen@ntu.edu.sg
 
-        * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
-
-        * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
+          Interests: Symmetric-Key Cryptography
         </div>
 
+
+
+
+
+# <div style="font-size: 16px; line-height: 1.2;">
+
+# * [<span style="color: green;">New</span>] 2022/09: There are multiple open positions of (senior) postdoc research fellows and PhD students with full scholarship support, on the topic of symmetric-key cryptography including but not limited to quantum attacks, cryptanalysis of AES and SHA-3, FHE/MPC friendly designs, automatic tools or machine learning for cryptanalysis: [https://www.iacr.org/jobs/item/3107](https://www.iacr.org/jobs/item/3107)
+
+# * Refer to [this page](http://guo.crypto.sg/student) if you are interested in joining as a PhD or FYP student.
+# </div>
 
   # - block: people
   #   content:

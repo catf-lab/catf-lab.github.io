@@ -9,7 +9,8 @@ sections:
     content:
       title: 
       text: |
-      
+        <link rel="stylesheet" href="/css/styles.css">
+
         <span style="display: block; text-align: center; font-size: 100px; color: orange;">Cryptanalysis Taskforce</span>
         <p></p><p></p>
 
@@ -75,7 +76,8 @@ sections:
     content:
       title: 
       text: |
-        
+        <link rel="stylesheet" href="/css/styles.css">
+
         <span style="font-size: 35px; color: orange;">News</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -129,7 +131,8 @@ sections:
     content:
       title: 
       text: |
-        
+        <link rel="stylesheet" href="/css/styles.css">
+
         <span style="font-size: 35px; color: orange;">Open Positions</span>
         <div style="font-size: 16px; line-height: 1.2;">
 
@@ -142,7 +145,8 @@ sections:
     content:
       title: 
       text: |
-        
+        <link rel="stylesheet" href="/css/styles.css">
+
         <span style="font-size: 35px; color: orange;">Recent Services</span>
         <div style="font-size: 16px; line-height: 1.2;">
 
@@ -166,6 +170,7 @@ sections:
     content:
       title: 
       text: |
+        <link rel="stylesheet" href="/css/styles.css">
 
         <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱 Website Still in Built 🧱🧱🧱</span>
         

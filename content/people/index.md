@@ -4,14 +4,14 @@ date: 2024-02-08
 
 type: landing
 
-<link rel="stylesheet" href="/css/styles.css">
-
 sections:
   - block: markdown
     content:
       title: 
       text: |
         
+        <link rel="stylesheet" href="/css/styles.css">
+
         <span style="font-size: 35px; color: orange;">Current Members</span>
 
         <p></p>

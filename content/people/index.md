@@ -20,8 +20,7 @@ sections:
         </a>
 
         <div style="font-size: 16px; line-height: 1.2;">
-          Email: guojian@ntu.edu.sg
-
+          Email: guojian@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies
         </div>
 
@@ -44,12 +43,90 @@ sections:
         <span style="color: blue;">Shiyao Chen</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
-          Email: shiyao.chen@ntu.edu.sg
-
+          Email: shiyao.chen@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography
         </div>
 
+        <span style="color: blue;">Le He</span>
 
+        <div style="font-size: 16px; line-height: 1.2;">
+          Email: le.he@ntu.edu.sg<br>
+          Interests: Symmetric-Key Cryptography
+        </div>
+
+        <span style="color: blue;">Shun Li</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Email: shun.li@ntu.edu.sg<br>
+          Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies, Quantum Cryptanalysis
+        </div>
+
+        <span style="color: blue;">Eik List</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Email: eik.list@ntu.edu.sg<br>
+          Interests: Symmetric-Key Cryptography, Provable Security
+        </div>
+
+        <span style="color: blue;">Guozhen Liu</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Email: guozhen.liu@ntu.edu.sg<br>
+          Interests: Symmetric-Key Cryptography
+        </div>
+
+        <p></p>
+        <span style="font-size: 28px;">Team Lead:</span><br>
+
+        <span style="color: blue;">Phuong Pham</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2019 - <br>
+          Topic: Quantum Cryptanalysis<br>
+          Email: pham0079@e.ntu.edu.sg
+        </div>
+
+        <span style="color: blue;">Xingran Li</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Affiliation: Interdisciplinary Graduate Programme, Nanyang Technological University, Singapore. 01/2022 - <br>
+          Topic: Privacy-Preserving Technologies<br>
+          Email: xingran001@e.ntu.edu.sg
+        </div>
+
+        <span style="color: blue;">Yiran Yao</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2022 - <br>
+          Topic: Cryptanalysis and Machine Learning <br>
+          Email: yiran005@e.ntu.edu.sg
+        </div>
+
+        <span style="color: blue;">Wenjie Nan</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 01/2023 - <br>
+          Topic: Cryptography for Privacy-Preserving Technologies <br>
+          Email: wenjie006@e.ntu.edu.sg
+        </div>
+
+        <span style="color: blue;">Tianyu Zhang</span>
+
+        <div style="font-size: 16px; line-height: 1.2;">
+          Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
+          Topic: Quantum Cryptanalysis <br>
+          Email: tianyu005@e.ntu.edu.sg
+        </div>
+        
+
+
+  
+  - block: markdown
+    content:
+      title: 
+      text: |
+
+        <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱 Website Still in Built 🧱🧱🧱</span>
 
 
 

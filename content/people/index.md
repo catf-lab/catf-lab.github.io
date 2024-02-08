@@ -1,14 +1,4 @@
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>People</title>
-    <link rel="stylesheet" href="/css/styles.css"> <!-- Reference to your CSS file -->
-</head>
-<body>
-
 title: People
 date: 2024-02-08
 
@@ -30,7 +20,7 @@ sections:
           <span style="color: blue;">Jian Guo</span>
         </a>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Email: guojian@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies
         </div>
@@ -55,7 +45,7 @@ sections:
         <p></p>
         <span style="color: blue;">Shiyao Chen</span>
 
-        <div style="font-size: 16px; line-height: 1.2;">
+        <div style="font-size: 16px; line-height: 1.2; padding-left: 20px;">
           Email: shiyao.chen@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography<br>
         </div>
@@ -132,7 +122,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Tianyu Zhang</span>
+        <span style="font-size: 1600px; color: pink;">Tianyu Zhang</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>

@@ -147,6 +147,70 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Exchange/Visitors:</span><br>
 
+        <p></p>
+        <span style="color: blue;">Huina Li, PhD Student</span>
+
+        <div class="member-info">
+          Affiliation: Shanghai Jiao Tong University, China. 11/2021 - <br>
+          Topic: Cryptanalysis <br>
+          Email: lihuina@sjtu.edu.cn
+        </div>
+
+        <p></p>
+        <span style="color: blue;">Wenlong Tian, Assistant Professor</span>
+
+        <div class="member-info">
+          Affiliation: University of South China, China. 03/2022 - <br>
+          Topic: Cloud Security <br>
+          Email: wenlongtian@usc.edu.cn
+        </div>
+
+        <p></p>
+        <span style="color: blue;">Liu Zhang, PhD Student</span>
+
+        <div class="member-info">
+          Affiliation: Xidian University, China. 10/2022 - <br>
+          Topic: Machine Learning based Cryptanalysis <br>
+          Email: 17lzhang3@gmail.com
+        </div>
+
+        <p></p>
+        <span style="color: blue;">Jinyu Lu, PhD Student</span>
+
+        <div class="member-info">
+          Affiliation: National University of Defense Technology, China. 11/2022 - <br>
+          Topic: Machine Learning based Cryptanalysis <br>
+          Email: jinyu_smile@foxmail.com
+        </div>
+
+        <p></p>
+        <span style="color: blue;">Bin Hu, PhD Student</span>
+
+        <div class="member-info">
+          Affiliation: Beihang University, China. 11/2022 - <br>
+          Topic: Threshold Cryptography <br>
+          Email: hubin0205@buaa.edu.cn
+        </div>
+
+        <p></p>
+        <span style="color: blue;">Tianyi Li, Undergraduate Student</span>
+
+        <div class="member-info">
+          Affiliation: Shanghai Jiao Tong University, China. 06/2023 - <br>
+          Topic: Threshold Cryptography <br>
+          Email: ltetsla@sjtu.edu.cn
+        </div>
+
+        <p></p>
+        <span style="color: blue;">Zhuohan Cai, Undergraduate Student</span>
+
+        <div class="member-info">
+          Affiliation: Tsinghua University, China. 07/2023 - <br>
+          Topic: Machine Learning based Cryptanalysis <br>
+          Email: cai-zh19@mails.tsinghua.edu.cn
+        </div>
+
+
 
 
 

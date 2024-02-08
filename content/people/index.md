@@ -44,9 +44,10 @@ sections:
 
         <div style="font-size: 16px; line-height: 1.2;">
           Email: shiyao.chen@ntu.edu.sg<br>
-          Interests: Symmetric-Key Cryptography
+          Interests: Symmetric-Key Cryptography<br>
         </div>
 
+        <p></p>
         <span style="color: blue;">Le He</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -54,6 +55,7 @@ sections:
           Interests: Symmetric-Key Cryptography
         </div>
 
+        <p></p>
         <span style="color: blue;">Shun Li</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -61,6 +63,7 @@ sections:
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies, Quantum Cryptanalysis
         </div>
 
+        <p></p>
         <span style="color: blue;">Eik List</span>
 
         <div style="font-size: 16px; line-height: 1.2;">
@@ -68,6 +71,7 @@ sections:
           Interests: Symmetric-Key Cryptography, Provable Security
         </div>
 
+        <p></p>
         <span style="color: blue;">Guozhen Liu</span>
 
         <div style="font-size: 16px; line-height: 1.2;">

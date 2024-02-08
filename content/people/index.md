@@ -28,7 +28,7 @@ sections:
         </div>
 
         <p></p>
-        <span color: pink;">Tianyu Zhang</span>
+        <span style="color: pink;">Tianyu Zhang</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
@@ -133,7 +133,7 @@ sections:
         </div>
 
         <p></p>
-        <span color: pink;">Tianyu Zhang</span>
+        <span style="color: pink;">Tianyu Zhang</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>

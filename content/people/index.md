@@ -33,11 +33,9 @@ sections:
         </a>
 
         <div style="font-size: 16px; line-height: 1.2;">
-          Affiliation: Assistant Professor, Tsinghua University, China
-        
-          Email: zzbao@tsinghua.edu.cn
-        
-          Interests: Symmetric-Key Cryptography
+          Affiliation: Assistant Professor, Tsinghua University, China<br>
+          Email: zzbao@tsinghua.edu.cn<br>
+          Interests: Symmetric-Key Cryptography<br>
         </div>
 
         <p></p>

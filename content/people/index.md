@@ -17,7 +17,6 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Team Lead:</span><br>
 
-        <p></p>
         <a href="https://guo.crypto.sg/">
           <span style="color: blue; padding-left: 10px;">Jian Guo</span>
         </a>
@@ -30,7 +29,6 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Associates:</span><br>
 
-        <p></p>
         <a href="https://freedisciplina.github.io/">
           <span style="color: blue; padding-left: 10px;">Zhenzhen Bao</span>
         </a>
@@ -44,7 +42,6 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Post-Doctoral Research Fellows:</span><br>
         
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Shiyao Chen</span>
 
         <div class="member-info">
@@ -70,7 +67,6 @@ sections:
           Interests: Symmetric-Key Cryptography, Provable Security
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Guozhen Liu</span>
 
         <div class="member-info">
@@ -81,7 +77,6 @@ sections:
         <p></p>
         <span style="font-size: 28px;">PhD Students:</span><br>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
 
         <div class="member-info">
@@ -90,7 +85,6 @@ sections:
           Email: pham0079@e.ntu.edu.sg<br>
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Xingran Li</span>
 
         <div class="member-info">
@@ -99,7 +93,6 @@ sections:
           Email: xingran001@e.ntu.edu.sg
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Yiran Yao</span>
 
         <div class="member-info">
@@ -108,7 +101,6 @@ sections:
           Email: yiran005@e.ntu.edu.sg
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Wenjie Nan</span>
 
         <div class="member-info">
@@ -117,7 +109,6 @@ sections:
           Email: wenjie006@e.ntu.edu.sg
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Tianyu Zhang</span>
 
         <div class="member-info">
@@ -132,7 +123,6 @@ sections:
         <p></p>
         <span style="font-size: 28px;">Exchange/Visitors:</span><br>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Huina Li, PhD Student</span>
 
         <div class="member-info">
@@ -141,7 +131,6 @@ sections:
           Email: lihuina@sjtu.edu.cn
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Wenlong Tian, Assistant Professor</span>
 
         <div class="member-info">
@@ -150,7 +139,6 @@ sections:
           Email: wenlongtian@usc.edu.cn
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Liu Zhang, PhD Student</span>
 
         <div class="member-info">
@@ -159,7 +147,6 @@ sections:
           Email: 17lzhang3@gmail.com
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Jinyu Lu, PhD Student</span>
 
         <div class="member-info">
@@ -168,7 +155,6 @@ sections:
           Email: jinyu_smile@foxmail.com
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Bin Hu, PhD Student</span>
 
         <div class="member-info">
@@ -177,7 +163,6 @@ sections:
           Email: hubin0205@buaa.edu.cn
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Tianyi Li, Undergraduate Student</span>
 
         <div class="member-info">
@@ -186,7 +171,6 @@ sections:
           Email: ltetsla@sjtu.edu.cn
         </div>
 
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Zhuohan Cai, Undergraduate Student</span>
 
         <div class="member-info">

@@ -152,6 +152,7 @@ sections:
         <link rel="stylesheet" href="/css/styles.css">
 
         <span style="font-size: 35px; color: orange;">Alumni</span><br>
+        <p></p>
         <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
         <div class="member-info">
           Duration: 07/2019 - 08/2023<br>
@@ -334,7 +335,7 @@ sections:
         <link rel="stylesheet" href="/css/styles.css">
 
         <span style="font-size: 35px; color: orange;">Past (Exchange) Students</span><br>
-
+        <p></p>
         <span style="color: blue; padding-left: 10px;">Zhuohan Cai</span>
         <div class="member-info">
           Duration: 11/07/2023 - 04/09/2023<br>

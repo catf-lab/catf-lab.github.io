@@ -25,7 +25,6 @@ sections:
           Email: guojian@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies
         </div>
-
         <p></p>
         <span style="font-size: 28px;">Associates:</span><br>
 
@@ -38,37 +37,30 @@ sections:
           Email: zzbao@tsinghua.edu.cn<br>
           Interests: Symmetric-Key Cryptography<br>
         </div>
-
         <p></p>
         <span style="font-size: 28px;">Post-Doctoral Research Fellows:</span><br>
-        
         <span style="color: blue; padding-left: 10px;">Shiyao Chen</span>
-
         <div class="member-info">
           Email: shiyao.chen@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography<br>
         </div>
         <span style="color: blue; padding-left: 10px;">Le He</span>
-
         <div class="member-info">
           Email: le.he@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography
         </div>
         <span style="color: blue; padding-left: 10px;">Shun Li</span>
-
         <div class="member-info">
           Email: shun.li@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies, Quantum Cryptanalysis
         </div>
         <span style="color: blue; padding-left: 10px;">Eik List</span>
-
         <div class="member-info">
           Email: eik.list@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Provable Security
         </div>
 
         <span style="color: blue; padding-left: 10px;">Guozhen Liu</span>
-
         <div class="member-info">
           Email: guozhen.liu@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography

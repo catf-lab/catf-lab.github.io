@@ -292,7 +292,7 @@ sections:
 
         <div class="member-info">
           Duration: 30/08/2023 - 06/09/2023<br>
-          From: Peking University, China
+          From: Peking University, China 
         </div>
 
         <p></p>
@@ -301,6 +301,174 @@ sections:
         <div class="member-info">
           Duration: 23/08/2023 - 26/08/2023<br>
           From: Shanghai Jiao Tong University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Danping Shi</span>
+
+        <div class="member-info">
+          Duration: 05/08/2023 - 28/08/2023<br>
+          From: Institute of Information Engineering, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Haoyang Wang</span>
+
+        <div class="member-info">
+          Duration: 24/07/2023 - 31/08/2023<br>
+          From: Shanghai Jiao Tong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Xiaoyang Dong</span>
+
+        <div class="member-info">
+          Duration: 08/07/2023 - 18/07/2023<br>
+          From: Tsinghua University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Wenlong Tian</span>
+
+        <div class="member-info">
+          Duration: 01/03/2022 -<br>
+          From: University of South China, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Bing Sun </span>
+
+        <div class="member-info">
+          Duration: 17/01/2020 - 14/04/2020<br>
+          From: National University of Defense Technology, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Senyang Huang </span>
+
+        <div class="member-info">
+          Duration: 17/09/2019 - 07/12/2019<br>
+          From: Haifa University, Israel 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Wenying Zhang </span>
+
+        <div class="member-info">
+          Duration: 27/08/2018 - 20/08/2019<br>
+          From: Shandong Normal University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Zheng Gong </span>
+
+        <div class="member-info">
+          Duration: 21/01/2019 - 15/02/2019<br>
+          From: South China Normal University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Kazuhiko Minematsu </span>
+
+        <div class="member-info">
+          Duration: 12/12/2018 - 14/12/2018<br>
+          From: NEC, Japan 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tetsu Iwata </span>
+
+        <div class="member-info">
+          Duration: 12/02/2018 - 22/02/2018<br>
+          From: Nagoya University, Japan 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tetsu Iwata </span>
+
+        <div class="member-info">
+          Duration: 17/10/2016 - 31/03/2017<br>
+          From: Nagoya University, Japan 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Jingmei Liu </span>
+
+        <div class="member-info">
+          Duration: 01/03/2016 - 01/03/2017<br>
+          From: Xidian University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Lei Wang </span>
+
+        <div class="member-info">
+          Duration: 04/02/2017 - 10/02/2017<br>
+          From: Shanghai Jiao Tong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Vesselin Velichkov </span>
+
+        <div class="member-info">
+          Duration: 12/12/2016 - 16/12/2016<br>
+          From: Luxembourg University, Luxembourg 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Qingju Wang </span>
+
+        <div class="member-info">
+          Duration: 08/08/2016 - 15/10/2016<br>
+          From: Katholieke Universiteit Leuven, Belgium 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Florian Mendel </span>
+
+        <div class="member-info">
+          Duration: 28/09/2015 - 30/10/2015<br>
+          From: Graz University of Technology, Austria 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Lei Zhang </span>
+
+        <div class="member-info">
+          Duration: 26/09/2015 - 10/10/2015<br>
+          From: Chinese Academy of Sciences, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Lei Wang </span>
+
+        <div class="member-info">
+          Duration: 20/09/2015 - 04/10/2015<br>
+          From: Shanghai Jiao Tong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Liting Zhang </span>
+
+        <div class="member-info">
+          Duration: 28/08/2015 - 27/10/2015<br>
+          From: Chinese Academy of Sciences, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Bing Sun</span>
+
+        <div class="member-info">
+          Duration: 13/07/2015 - 12/10/2015<br>
+          From:  National University of Defense Technology, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Bin Zhang </span>
+
+        <div class="member-info">
+          Duration: 17/11/2014 - 21/11/2014<br>
+          From: Chinese Academy of Sciences, China 
         </div>
   
   - block: markdown

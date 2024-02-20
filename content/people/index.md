@@ -51,24 +51,18 @@ sections:
           Email: shiyao.chen@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography<br>
         </div>
-
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Le He</span>
 
         <div class="member-info">
           Email: le.he@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography
         </div>
-
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Shun Li</span>
 
         <div class="member-info">
           Email: shun.li@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Privacy-Preserving Technologies, Quantum Cryptanalysis
         </div>
-
-        <p></p>
         <span style="color: blue; padding-left: 10px;">Eik List</span>
 
         <div class="member-info">
@@ -471,6 +465,241 @@ sections:
           From: Chinese Academy of Sciences, China 
         </div>
   
+  - block: markdown
+    content:
+      title: 
+      text: |
+        
+        <link rel="stylesheet" href="/css/styles.css">
+
+        <span style="font-size: 35px; color: orange;">Past (Exchange) Students</span>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Zhuohan Cai</span>
+
+        <div class="member-info">
+          Duration: 11/07/2023 - 04/09/2023<br>
+          From: Tsinghua University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tianyi Li</span>
+
+        <div class="member-info">
+          Duration: 15/06/2023 - 15/09/2023<br>
+          From: Shanghai Jiao Tong University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Jinyu Lu</span>
+
+        <div class="member-info">
+          Duration: 04/11/2022 -<br>
+          From: National University of Defense Technology, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Bin Hu</span>
+
+        <div class="member-info">
+          Duration: 13/10/2022 -<br>
+          From: Beihang University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Liu Zhang</span>
+
+        <div class="member-info">
+          Duration: 01/10/2022 -<br>
+          From: Xidian University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Huina Li</span>
+
+        <div class="member-info">
+          Duration: 05/11/2021 -<br>
+          From: Shanghai Jiao Tong University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Yicheng Zhu</span>
+
+        <div class="member-info">
+          Duration: 01/08/2022 - 30/11/2022<br>
+          From: Nanyang Technological University, Singapore
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Liheng Ji</span>
+
+        <div class="member-info">
+          Duration: 03/08/2022 - 28/12/2022<br>
+          From: Shanghai Jiao Tong University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Huaijin Wu</span>
+
+        <div class="member-info">
+          Duration: 01/09/2021 - 07/01/2022<br>
+          From: Shanghai Jiao Tong University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tianyu Zhang</span>
+
+        <div class="member-info">
+          Duration: 27/07/2021 - 31/07/2023<br>
+          From: Nanyang Technological University, Singapore
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Eik List </span>
+
+        <div class="member-info">
+          Duration: 03/02/2020 - 21/02/2020<br>
+          From: Bauhaus-Universität Weimar, Germany 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Yucheng Chen </span>
+
+        <div class="member-info">
+          Duration: 03/12/2019 - 02/12/2020<br>
+          From: Guangzhou University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Li Ma </span>
+
+        <div class="member-info">
+          Duration: 20/11/2019 - 20/05/2020<br>
+          From: Institute of Information Engineering, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Jiayuan Ye </span>
+
+        <div class="member-info">
+          Duration: 04/07/2019 - 30/09/2019<br>
+          From: University of Science and Technology of China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Yongqing Li </span>
+
+        <div class="member-info">
+          Duration: 25/07/2019 - 16/09/2019<br>
+          From: Shandong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Shun Li </span>
+
+        <div class="member-info">
+          Duration: 03/05/2019 - 17/05/2019<br>
+          From: Institute of Information Engineering, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Phuong Pham Thi Minh </span>
+
+        <div class="member-info">
+          Duration: 21/01/2019 - 20/04/2019<br>
+          From: VNU University of Science, Vietnam 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Eik List </span>
+
+        <div class="member-info">
+          Duration: 21/01/2019 - 08/02/2019<br>
+          From: Bauhaus-Universität Weimar, Germany 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tao Ye </span>
+
+        <div class="member-info">
+          Duration: Guilin University of Electronic Technology, China 			19/11/2018 - 18/12/2018<br>
+          From:  
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Xianrui Qin </span>
+
+        <div class="member-info">
+          Duration: 14/09/2018 - 10/12/2018<br>
+          From: Shandong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tingting Cui </span>
+
+        <div class="member-info">
+          Duration: 10/02/2017 - 25/08/2017<br>
+          From: Shandong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Jiale Guo </span>
+
+        <div class="member-info">
+          Duration: 10/11/2016 - 02/03/2017<br>
+          From: Shandong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Ning Luo </span>
+
+        <div class="member-info">
+          Duration: 10/11/2016 - 14/02/2017<br>
+          From: Shandong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Guozhen Liu</span>
+
+        <div class="member-info">
+          Duration: 15/07/2016 - 31/02/2017<br>
+          From: Shanghai Jiao Tong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Guohong Liao </span>
+
+        <div class="member-info">
+          Duration: 15/07/2016 - 12/10/2016<br>
+          From: South China Normal University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Kexin Qiao </span>
+
+        <div class="member-info">
+          Duration: 01/12/2015 - 31/05/2016<br>
+          From: Chinese Academy of Sciences, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Haoyang Wang </span>
+
+        <div class="member-info">
+          Duration: 01/08/2015 - 31/08/2015<br>
+          From: Shandong University, China 
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Jingyuan Zhao </span>
+
+        <div class="member-info">
+          Duration: 17/02/2015 - 16/05/2015<br>
+          From: Shandong University, China 
+        </div>
+
+
+
   - block: markdown
     content:
       title: 

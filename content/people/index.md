@@ -19,7 +19,7 @@ sections:
 
         <p></p>
         <a href="https://guo.crypto.sg/">
-          <span style="color: blue;">Jian Guo</span>
+          <span style="color: blue; padding-left: 10px;">Jian Guo</span>
         </a>
 
         <div class="member-info">
@@ -246,6 +246,26 @@ sections:
         <div class="member-info">
           Duration: 08/2016 - 12/2020<br>
           Current Position: Assistant Professor, Shanghai Jiao Tong University, China
+        </div>
+
+        <p></p>
+        <a href="https://sites.google.com/view/ling-song/home">
+          <span style="color: blue;">Ling Song</span>
+        </a>
+
+        <div class="member-info">
+          Duration: 02/2016 - 05/2019<br>
+          Current Position: Professor, Jinan University, China
+        </div>
+
+        <p></p>
+        <a href="http://sites.google.com/site/monsieurlelanc">
+          <span style="color: blue;">Subhadeep Banik</span>
+        </a>
+
+        <div class="member-info">
+          Duration: 03/2016 - 06/2017<br>
+          Current Position: Ambizione Fellow, EPFL, Switzerland
         </div>
 
 

@@ -28,15 +28,6 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: pink;">Tianyu Zhang</span>
-
-        <div class="member-info">
-          Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
-          Topic: Quantum Cryptanalysis <br>
-          Email: tianyu005@e.ntu.edu.sg
-        </div>
-
-        <p></p>
         <span style="font-size: 28px;">Associates:</span><br>
 
         <p></p>
@@ -133,7 +124,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: pink;">Tianyu Zhang</span>
+        <span style="color: blue;">Tianyu Zhang</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
@@ -210,8 +201,52 @@ sections:
           Email: cai-zh19@mails.tsinghua.edu.cn
         </div>
 
+  - block: markdown
+    content:
+      title: 
+      text: |
+        
+        <link rel="stylesheet" href="/css/styles.css">
 
+        <span style="font-size: 35px; color: orange;">Alumni</span>
 
+        <p></p>
+        <span style="color: blue;">Phuong Pham</span>
+
+        <div class="member-info">
+          Duration: 07/2019 - 08/2023<br>
+          Current Position: Huawei, Singapore
+        </div>
+
+        <p></p>
+        <a href="https://sites.google.com/view/tuyi">
+          <span style="color: blue;">Yi Tu</span>
+        </a>
+
+        <div class="member-info">
+          Duration: 07/2018 - 06/2022<br>
+          Current Position: Huawei, China
+        </div>
+
+        <p></p>
+        <a href="https://freedisciplina.github.io/">
+          <span style="color: blue;">Zhenzhen Bao</span>
+        </a>
+
+        <div class="member-info">
+          Duration: 12/2016 - 04/2022<br>
+          Current Position: Assistant Professor, Tsinghua University, China
+        </div>
+
+        <p></p>
+        <a href="https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=163">
+          <span style="color: blue;">Haoyang Wang</span>
+        </a>
+
+        <div class="member-info">
+          Duration: 08/2016 - 12/2020<br>
+          Current Position: Assistant Professor, Shanghai Jiao Tong University, China
+        </div>
 
 
   

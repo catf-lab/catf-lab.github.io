@@ -152,7 +152,6 @@ sections:
         <link rel="stylesheet" href="/css/styles.css">
 
         <span style="font-size: 35px; color: orange;">Alumni</span><br>
-
         <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
         <div class="member-info">
           Duration: 07/2019 - 08/2023<br>
@@ -209,7 +208,7 @@ sections:
         <link rel="stylesheet" href="/css/styles.css">
 
         <span style="font-size: 35px; color: orange;">Past Visitors</span><br>
-
+        <p></p>
         <span style="color: blue; padding-left: 10px;">Tianren Liu</span>
         <div class="member-info">
           Duration: 30/08/2023 - 06/09/2023<br>

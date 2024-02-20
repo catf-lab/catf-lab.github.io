@@ -151,8 +151,8 @@ sections:
         
         <link rel="stylesheet" href="/css/styles.css">
 
-        <span style="font-size: 35px; color: orange;">Alumni</span>
-        
+        <span style="font-size: 35px; color: orange;">Alumni</span><br>
+
         <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
         <div class="member-info">
           Duration: 07/2019 - 08/2023<br>
@@ -208,7 +208,7 @@ sections:
         
         <link rel="stylesheet" href="/css/styles.css">
 
-        <span style="font-size: 35px; color: orange;">Past Visitors</span>
+        <span style="font-size: 35px; color: orange;">Past Visitors</span><br>
 
         <span style="color: blue; padding-left: 10px;">Tianren Liu</span>
         <div class="member-info">
@@ -334,7 +334,7 @@ sections:
         
         <link rel="stylesheet" href="/css/styles.css">
 
-        <span style="font-size: 35px; color: orange;">Past (Exchange) Students</span>
+        <span style="font-size: 35px; color: orange;">Past (Exchange) Students</span><br>
 
         <span style="color: blue; padding-left: 10px;">Zhuohan Cai</span>
         <div class="member-info">
@@ -428,8 +428,8 @@ sections:
         </div>
         <span style="color: blue; padding-left: 10px;">Tao Ye </span>
         <div class="member-info">
-          Duration: Guilin University of Electronic Technology, China 			19/11/2018 - 18/12/2018<br>
-          From:  
+          Duration: 19/11/2018 - 18/12/2018<br>
+          From: Guilin University of Electronic Technology, China 
         </div>
         <span style="color: blue; padding-left: 10px;">Xianrui Qin </span>
         <div class="member-info">
@@ -478,13 +478,13 @@ sections:
         </div>
 
 
-  - block: markdown
-    content:
-      title: 
-      text: |
-        <link rel="stylesheet" href="/css/styles.css">
+  # - block: markdown
+  #   content:
+  #     title: 
+  #     text: |
+  #       <link rel="stylesheet" href="/css/styles.css">
 
-        <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱 Website Still in Built 🧱🧱🧱</span>
+  #       <span style="display: block; text-align: center; font-size: 60px;">🧱🧱🧱 Website Still in Built 🧱🧱🧱</span>
 
 
 

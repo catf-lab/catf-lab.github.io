@@ -32,7 +32,7 @@ sections:
 
         <p></p>
         <a href="https://freedisciplina.github.io/">
-          <span style="color: blue;">Zhenzhen Bao</span>
+          <span style="color: blue; padding-left: 10px;">Zhenzhen Bao</span>
         </a>
 
         <div class="member-info">
@@ -45,7 +45,7 @@ sections:
         <span style="font-size: 28px;">Post-Doctoral Research Fellows:</span><br>
         
         <p></p>
-        <span style="color: blue;">Shiyao Chen</span>
+        <span style="color: blue; padding-left: 10px;">Shiyao Chen</span>
 
         <div class="member-info">
           Email: shiyao.chen@ntu.edu.sg<br>
@@ -53,7 +53,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Le He</span>
+        <span style="color: blue; padding-left: 10px;">Le He</span>
 
         <div class="member-info">
           Email: le.he@ntu.edu.sg<br>
@@ -61,7 +61,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Shun Li</span>
+        <span style="color: blue; padding-left: 10px;">Shun Li</span>
 
         <div class="member-info">
           Email: shun.li@ntu.edu.sg<br>
@@ -69,7 +69,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Eik List</span>
+        <span style="color: blue; padding-left: 10px;">Eik List</span>
 
         <div class="member-info">
           Email: eik.list@ntu.edu.sg<br>
@@ -77,7 +77,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Guozhen Liu</span>
+        <span style="color: blue; padding-left: 10px;">Guozhen Liu</span>
 
         <div class="member-info">
           Email: guozhen.liu@ntu.edu.sg<br>
@@ -88,7 +88,7 @@ sections:
         <span style="font-size: 28px;">PhD Students:</span><br>
 
         <p></p>
-        <span style="color: blue;">Phuong Pham</span>
+        <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2019 - <br>
@@ -97,7 +97,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Xingran Li</span>
+        <span style="color: blue; padding-left: 10px;">Xingran Li</span>
 
         <div class="member-info">
           Affiliation: Interdisciplinary Graduate Programme, Nanyang Technological University, Singapore. 01/2022 - <br>
@@ -106,7 +106,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Yiran Yao</span>
+        <span style="color: blue; padding-left: 10px;">Yiran Yao</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2022 - <br>
@@ -115,7 +115,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Wenjie Nan</span>
+        <span style="color: blue; padding-left: 10px;">Wenjie Nan</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 01/2023 - <br>
@@ -124,7 +124,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Tianyu Zhang</span>
+        <span style="color: blue; padding-left: 10px;">Tianyu Zhang</span>
 
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
@@ -139,7 +139,7 @@ sections:
         <span style="font-size: 28px;">Exchange/Visitors:</span><br>
 
         <p></p>
-        <span style="color: blue;">Huina Li, PhD Student</span>
+        <span style="color: blue; padding-left: 10px;">Huina Li, PhD Student</span>
 
         <div class="member-info">
           Affiliation: Shanghai Jiao Tong University, China. 11/2021 - <br>
@@ -148,7 +148,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Wenlong Tian, Assistant Professor</span>
+        <span style="color: blue; padding-left: 10px;">Wenlong Tian, Assistant Professor</span>
 
         <div class="member-info">
           Affiliation: University of South China, China. 03/2022 - <br>
@@ -157,7 +157,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Liu Zhang, PhD Student</span>
+        <span style="color: blue; padding-left: 10px;">Liu Zhang, PhD Student</span>
 
         <div class="member-info">
           Affiliation: Xidian University, China. 10/2022 - <br>
@@ -166,7 +166,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Jinyu Lu, PhD Student</span>
+        <span style="color: blue; padding-left: 10px;">Jinyu Lu, PhD Student</span>
 
         <div class="member-info">
           Affiliation: National University of Defense Technology, China. 11/2022 - <br>
@@ -175,7 +175,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Bin Hu, PhD Student</span>
+        <span style="color: blue; padding-left: 10px;">Bin Hu, PhD Student</span>
 
         <div class="member-info">
           Affiliation: Beihang University, China. 11/2022 - <br>
@@ -184,7 +184,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Tianyi Li, Undergraduate Student</span>
+        <span style="color: blue; padding-left: 10px;">Tianyi Li, Undergraduate Student</span>
 
         <div class="member-info">
           Affiliation: Shanghai Jiao Tong University, China. 06/2023 - <br>
@@ -193,7 +193,7 @@ sections:
         </div>
 
         <p></p>
-        <span style="color: blue;">Zhuohan Cai, Undergraduate Student</span>
+        <span style="color: blue; padding-left: 10px;">Zhuohan Cai, Undergraduate Student</span>
 
         <div class="member-info">
           Affiliation: Tsinghua University, China. 07/2023 - <br>
@@ -211,7 +211,7 @@ sections:
         <span style="font-size: 35px; color: orange;">Alumni</span>
 
         <p></p>
-        <span style="color: blue;">Phuong Pham</span>
+        <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
 
         <div class="member-info">
           Duration: 07/2019 - 08/2023<br>
@@ -220,7 +220,7 @@ sections:
 
         <p></p>
         <a href="https://sites.google.com/view/tuyi">
-          <span style="color: blue;">Yi Tu</span>
+          <span style="color: blue; padding-left: 10px;">Yi Tu</span>
         </a>
 
         <div class="member-info">
@@ -230,7 +230,7 @@ sections:
 
         <p></p>
         <a href="https://freedisciplina.github.io/">
-          <span style="color: blue;">Zhenzhen Bao</span>
+          <span style="color: blue; padding-left: 10px;">Zhenzhen Bao</span>
         </a>
 
         <div class="member-info">
@@ -240,7 +240,7 @@ sections:
 
         <p></p>
         <a href="https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=163">
-          <span style="color: blue;">Haoyang Wang</span>
+          <span style="color: blue; padding-left: 10px;">Haoyang Wang</span>
         </a>
 
         <div class="member-info">
@@ -250,7 +250,7 @@ sections:
 
         <p></p>
         <a href="https://sites.google.com/view/ling-song/home">
-          <span style="color: blue;">Ling Song</span>
+          <span style="color: blue; padding-left: 10px;">Ling Song</span>
         </a>
 
         <div class="member-info">
@@ -260,7 +260,7 @@ sections:
 
         <p></p>
         <a href="http://sites.google.com/site/monsieurlelanc">
-          <span style="color: blue;">Subhadeep Banik</span>
+          <span style="color: blue; padding-left: 10px;">Subhadeep Banik</span>
         </a>
 
         <div class="member-info">
@@ -268,7 +268,40 @@ sections:
           Current Position: Ambizione Fellow, EPFL, Switzerland
         </div>
 
+        <p></p>
+        <a href="http://people.ucas.ac.cn/~0046011?language=en">
+          <span style="color: blue; padding-left: 10px;">Meicheng Liu</span>
+        </a>
 
+        <div class="member-info">
+          Duration: 05/2015 - 09/2016<br>
+          Current Position: Professor, Chinese Academy of Sciences, China
+        </div>
+
+  - block: markdown
+    content:
+      title: 
+      text: |
+        
+        <link rel="stylesheet" href="/css/styles.css">
+
+        <span style="font-size: 35px; color: orange;">Past Visitors</span>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Tianren Liu</span>
+
+        <div class="member-info">
+          Duration: 30/08/2023 - 06/09/2023<br>
+          From: Peking University, China
+        </div>
+
+        <p></p>
+        <span style="color: blue; padding-left: 10px;">Lei Wang</span>
+
+        <div class="member-info">
+          Duration: 23/08/2023 - 26/08/2023<br>
+          From: Shanghai Jiao Tong University, China
+        </div>
   
   - block: markdown
     content:

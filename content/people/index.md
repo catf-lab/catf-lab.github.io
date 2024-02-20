@@ -59,112 +59,86 @@ sections:
           Email: eik.list@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography, Provable Security
         </div>
-
         <span style="color: blue; padding-left: 10px;">Guozhen Liu</span>
         <div class="member-info">
           Email: guozhen.liu@ntu.edu.sg<br>
           Interests: Symmetric-Key Cryptography
         </div>
-
         <p></p>
         <span style="font-size: 28px;">PhD Students:</span><br>
 
         <span style="color: blue; padding-left: 10px;">Phuong Pham</span>
-
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2019 - <br>
           Topic: Quantum Cryptanalysis<br>
           Email: pham0079@e.ntu.edu.sg<br>
         </div>
-
         <span style="color: blue; padding-left: 10px;">Xingran Li</span>
-
         <div class="member-info">
           Affiliation: Interdisciplinary Graduate Programme, Nanyang Technological University, Singapore. 01/2022 - <br>
           Topic: Privacy-Preserving Technologies<br>
           Email: xingran001@e.ntu.edu.sg
         </div>
-
         <span style="color: blue; padding-left: 10px;">Yiran Yao</span>
-
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2022 - <br>
           Topic: Cryptanalysis and Machine Learning <br>
           Email: yiran005@e.ntu.edu.sg
         </div>
-
         <span style="color: blue; padding-left: 10px;">Wenjie Nan</span>
-
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 01/2023 - <br>
           Topic: Cryptography for Privacy-Preserving Technologies <br>
           Email: wenjie006@e.ntu.edu.sg
         </div>
-
         <span style="color: blue; padding-left: 10px;">Tianyu Zhang</span>
-
         <div class="member-info">
           Affiliation: School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. 07/2023 - <br>
           Topic: Quantum Cryptanalysis <br>
           Email: tianyu005@e.ntu.edu.sg
         </div>
-        
         <p></p>
         <span style="font-size: 28px;">Undergraduate Students:</span><br>
 
         <p></p>
         <span style="font-size: 28px;">Exchange/Visitors:</span><br>
-
         <span style="color: blue; padding-left: 10px;">Huina Li, PhD Student</span>
-
         <div class="member-info">
           Affiliation: Shanghai Jiao Tong University, China. 11/2021 - <br>
           Topic: Cryptanalysis <br>
           Email: lihuina@sjtu.edu.cn
         </div>
-
         <span style="color: blue; padding-left: 10px;">Wenlong Tian, Assistant Professor</span>
-
         <div class="member-info">
           Affiliation: University of South China, China. 03/2022 - <br>
           Topic: Cloud Security <br>
           Email: wenlongtian@usc.edu.cn
         </div>
-
         <span style="color: blue; padding-left: 10px;">Liu Zhang, PhD Student</span>
-
         <div class="member-info">
           Affiliation: Xidian University, China. 10/2022 - <br>
           Topic: Machine Learning based Cryptanalysis <br>
           Email: 17lzhang3@gmail.com
         </div>
-
         <span style="color: blue; padding-left: 10px;">Jinyu Lu, PhD Student</span>
-
         <div class="member-info">
           Affiliation: National University of Defense Technology, China. 11/2022 - <br>
           Topic: Machine Learning based Cryptanalysis <br>
           Email: jinyu_smile@foxmail.com
         </div>
-
         <span style="color: blue; padding-left: 10px;">Bin Hu, PhD Student</span>
-
         <div class="member-info">
           Affiliation: Beihang University, China. 11/2022 - <br>
           Topic: Threshold Cryptography <br>
           Email: hubin0205@buaa.edu.cn
         </div>
-
         <span style="color: blue; padding-left: 10px;">Tianyi Li, Undergraduate Student</span>
-
         <div class="member-info">
           Affiliation: Shanghai Jiao Tong University, China. 06/2023 - <br>
           Topic: Threshold Cryptography <br>
           Email: ltetsla@sjtu.edu.cn
         </div>
-
         <span style="color: blue; padding-left: 10px;">Zhuohan Cai, Undergraduate Student</span>
-
         <div class="member-info">
           Affiliation: Tsinghua University, China. 07/2023 - <br>
           Topic: Machine Learning based Cryptanalysis <br>

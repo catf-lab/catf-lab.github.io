@@ -25,7 +25,7 @@ doi: '10.1007/978-3-662-53887-6\_17'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Asiacrypt2016*
@@ -39,7 +39,7 @@ publication_short: In *Asiacrypt2016*
 # tags: []
 
 # Display this page in the Featured widget?
-featured: False
+# featured: False
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: People
 date: 2024-02-08
 
@@ -513,4 +513,4 @@ sections:
   #     show_interests: false
   #     show_role: true
   #     show_social: true
----
+--- -->
